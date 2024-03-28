@@ -39,7 +39,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,-100%);
 }
 
 #cursor h5 {
@@ -108,4 +108,10 @@ nav h4 {
     font-size: 27vw;
     font-weight: 100;
     line-height: 27vw;
+}
+
+#page2 {
+    height:500px;
+    width:100%;
+    background-color: #f6f8fa;
 }
